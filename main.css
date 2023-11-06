@@ -164,12 +164,12 @@ z-index: 8;
   z-index: 20;
 }
 
- /*#footer {
+ #footer {
   position: absolute;
   bottom: 0px;
   height: 300px;
   width: 100%;
-} */
+} 
 #scene {
   height: 100%;
   position: absolute;
